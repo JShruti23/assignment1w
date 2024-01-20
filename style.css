@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap");
+
+.name{
+    font-family: 'Dancing Script', cursive;
+    font-weight: 700;
+    font-size: normal;
+}
+body{
+    background-color: beige;
+}
+table{
+    border: 2px solid black;
+}
+img{
+    border-radius: 40px;
+}
